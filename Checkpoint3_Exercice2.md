@@ -12,6 +12,10 @@ Partie 2 : Configuration de SSH
 
 Q.2.2.1 Désactiver complètement l'accès à distance de l'utilisateur root.
 
+![Capture d'écran 2025-01-17 130321](https://github.com/user-attachments/assets/9765abbd-8e98-4e3c-9f3f-807ca473133d)
+
 Q.2.2.2 Autoriser l'accès à distance à ton compte personnel uniquement
+
+![Capture d'écran 2025-01-17 132009](https://github.com/user-attachments/assets/18a1fbbb-37f4-4f92-a759-1c3920951c27)
 
 Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
