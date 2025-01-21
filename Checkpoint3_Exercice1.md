@@ -9,20 +9,22 @@ Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kell
 
 ![Capture d'écran 2025-01-17 100331](https://github.com/user-attachments/assets/62de6fdc-a024-449a-9d7c-3437473334fc)
 
+![Capture d'écran 2025-01-21 143918](https://github.com/user-attachments/assets/7e50cfe0-12d6-431d-a139-52a775f8263c)
+
 ![Capture d'écran 2025-01-17 100759](https://github.com/user-attachments/assets/9821c631-1956-4bee-8765-da137d98d2b2)
 
 Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
 Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE
 
-![Capture d'écran 2025-01-17 101719](https://github.com/user-attachments/assets/9eb4f340-fcfd-4947-89fe-7d2410e9f44f)
-![Capture d'écran 2025-01-17 102859](https://github.com/user-attachments/assets/16146c10-a96a-49c3-9cd6-12c5eb64d728)
+![Capture d'écran 2025-01-21 144622](https://github.com/user-attachments/assets/2589a823-d6c9-4dac-90e7-1835613e5055)
+
 
 Partie 2 : Restriction utilisateurs
 
 Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
 
-![Capture d'écran 2025-01-17 104805](https://github.com/user-attachments/assets/48532887-d1e5-4659-ad72-e0256b94ad4f)
+![Capture d'écran 2025-01-21 145301](https://github.com/user-attachments/assets/384f7046-542d-484a-a5f6-a1bdec093c79)
 
 Q.1.2.2 De même, bloquer sa connexion au seul ordinateur CLIENT01.
 
