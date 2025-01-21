@@ -32,7 +32,7 @@ Je peux utiliser un mot de passe fort,limiter les droits d'accès,configurer un 
 
 ![Capture d'écran 2025-01-17 153444](https://github.com/user-attachments/assets/eaa50072-c565-4ef1-82e6-545645f41ab4)
 
-## Q.2.3.3 Ajouter un nouveau disque de 8,00 Gio au serveur et réparer le volume RAID
+## Q.2.3.3 Ajouter un nouveau disque de 8,00 GO au serveur et réparer le volume RAID
 
 ![Capture d'écran 2025-01-18 232903](https://github.com/user-attachments/assets/713ff5ce-3243-434d-a7f4-7dff0de871a3)
 
