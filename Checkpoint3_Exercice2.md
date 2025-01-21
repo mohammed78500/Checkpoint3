@@ -38,7 +38,7 @@ Je peux utiliser un mot de passe fort,limiter les droits d'accès,configurer un 
 
 ![Capture d'écran 2025-01-19 000215](https://github.com/user-attachments/assets/960a1f06-c30b-4162-9bb0-6f77eefb0dea)
 
-## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
+## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 GO qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
 
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?
 
