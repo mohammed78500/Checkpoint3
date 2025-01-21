@@ -20,6 +20,8 @@ Q.2.2.2 Autoriser l'accès à distance à ton compte personnel uniquement
 
 Q.2.2.3 Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
 
+![Capture d'écran 2025-01-21 163140](https://github.com/user-attachments/assets/367bc76a-73b8-4965-96ec-a5ca72759d45)
+
 Partie 3 : Analyse du stockage
 
 Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?
