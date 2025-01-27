@@ -7,11 +7,11 @@
 
 ## Q.1.1.2 Créer une OU DeactivatedUsers et déplace le compte désactivé de Kelly Rhameur dedans.
 
-![Capture d'écran 2025-01-17 100331](https://github.com/user-attachments/assets/62de6fdc-a024-449a-9d7c-3437473334fc)
+![Capture d'écran 2025-01-27 143011](https://github.com/user-attachments/assets/b7a2f979-08c6-4787-b286-274e9612cee5)
 
-![Capture d'écran 2025-01-21 143918](https://github.com/user-attachments/assets/7e50cfe0-12d6-431d-a139-52a775f8263c)
+![Capture d'écran 2025-01-27 143033](https://github.com/user-attachments/assets/2839c894-e4f9-4f71-900e-cb1ba58157ff)
 
-![Capture d'écran 2025-01-17 100759](https://github.com/user-attachments/assets/9821c631-1956-4bee-8765-da137d98d2b2)
+![Capture d'écran 2025-01-27 143142](https://github.com/user-attachments/assets/0447f043-c8b0-4c5f-84a5-4e81a661ea7f)
 
 ## Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
