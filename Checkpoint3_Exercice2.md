@@ -40,7 +40,22 @@ Je peux utiliser un mot de passe fort,limiter les droits d'accès,configurer un 
 
 ## Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 GO qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
 
+![Capture d'écran 2025-01-27 092653](https://github.com/user-attachments/assets/2c12d0d9-0607-46dc-a706-5e5d8b2d0c0b)
+
+![Capture d'écran 2025-01-27 092712](https://github.com/user-attachments/assets/52c918d2-d39e-474b-a9ee-5eb7cdea0ada)
+
+![Capture d'écran 2025-01-27 092730](https://github.com/user-attachments/assets/9889b225-1869-4547-8671-cb6fc01c0b6f)
+
+![Capture d'écran 2025-01-27 092748](https://github.com/user-attachments/assets/c27ec556-c0c8-4736-8df8-3f58ebe489a4)
+
+![Capture d'écran 2025-01-27 092810](https://github.com/user-attachments/assets/13013905-603a-4e3a-ae69-aad6c5208562)
+
+
+![Capture d'écran 2025-01-27 092825](https://github.com/user-attachments/assets/18ca3568-49f0-4540-8fcb-fd1080dda746)
+
 ## Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?
+
+![Capture d'écran 2025-01-27 092843](https://github.com/user-attachments/assets/a8c07f07-eeb2-4451-be98-45c14d055c43)
 
 # Partie 4 : Sauvegardes
 
