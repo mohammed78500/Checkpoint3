@@ -26,11 +26,18 @@ Je peux utiliser un mot de passe fort,limiter les droits d'accès,configurer un 
 
 ## Q.2.3.1 Quels sont les systèmes de fichiers actuellement montés ?
 
-![Capture d'écran 2025-01-17 153403](https://github.com/user-attachments/assets/942a2d6d-b8e2-4ab8-8fff-391da5f5e05d)
+![Capture d'écran 2025-01-27 143612](https://github.com/user-attachments/assets/afe521f3-bbac-4338-a295-689aa1722189)
+
+- Une partition de boot ext2
+- Une partition de swap
+- Un LVM en ext4
 
 ## Q.2.3.2 Quel type de système de stockage ils utilisent ?
 
-![Capture d'écran 2025-01-17 153444](https://github.com/user-attachments/assets/eaa50072-c565-4ef1-82e6-545645f41ab4)
+![Capture d'écran 2025-01-27 143821](https://github.com/user-attachments/assets/2e8b4594-14f3-426a-a9ad-b3dd8f2c6a94)
+
+- Raid 1
+- LVM
 
 ## Q.2.3.3 Ajouter un nouveau disque de 8,00 GO au serveur et réparer le volume RAID
 
