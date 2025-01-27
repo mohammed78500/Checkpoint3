@@ -15,7 +15,7 @@
 
 ## Q.1.1.3 Modifier le groupe de l'OU dans laquelle était Kelly Rhameur en conséquence.
 
-![Capture d'écran 2025-01-23 192106](https://github.com/user-attachments/assets/b8fa50d4-03b0-4437-93cf-5d2bdf95bf1d)
+![Capture d'écran 2025-01-27 150822](https://github.com/user-attachments/assets/3f7d3f85-267d-4529-9b8e-a70943d3f46b)
 
 ## Q.1.1.4 Créer le dossier Individuel du nouvel utilisateur et archive celui de Kelly Rhameur en le suffixant par -ARCHIVE
 
